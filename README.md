@@ -1,16 +1,22 @@
-### Hi there 👋
+### Salut 👋🏻
 
-<!--
-**Almigra/Almigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle **Sahar**, j'ai 26 ans et vous pouvez aussi m'appeller **Almigra** 🦄</br>
+J'ai toujours été passionnée par le web 👩🏻‍💻 et les jeux vidéos 🤖🐉🎮 </br>
+Après plusieurs années en Freelance en tant que conceptrice de sites wordpress et rédactrice web, j'ai décidé de me tourner vers le développement web</br>
+Quant aux jeux vidéo, je joue principalement à **Pokemon, [Warcraft](https://worldofwarcraft.com/en-gb/character/eu/kazzak/Almigra) et Zelda**</br>
+Je fais partie de la Promo Kraken de **[l'Ecole O'Clock](https://oclock.io/formations/developpeur-web)**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mes objectifs pour 2020 💫
+
+- [ ] Terminer la formation de dev web chez O'Clock
+- [ ] Terminer le parcours de formation Javascript, Node.js, React et Vue.js sur Dyma
+- [ ] Réaliser plusieurs projets que j'ai en tête
+- [ ] Publier mon portfolio
+
+### Je partagerais mes expériences sur les réseaux sociaux, n'hésitez pas à me suivre si ça vous intéresse ! 🌟
+
+[![Twitter](https://github.com/Almigra/Almigra/blob/master/Twitter.png)](https://twitter.com/AlmigraSahar)</br>
+[![Linkedin](https://github.com/Almigra/Almigra/blob/master/Linkedin.png)](https://www.linkedin.com/in/sahar-almigra/)
+[![Facebook](https://github.com/Almigra/Almigra/blob/master/Facebook.png)](https://www.facebook.com/Almigra)
+[![Instagram](https://github.com/Almigra/Almigra/blob/master/Instagram.png)](https://www.instagram.com/sahar.almigra/)
