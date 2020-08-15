@@ -2,17 +2,23 @@
 
 Je m'appelle **Sahar**, j'ai 26 ans et vous pouvez aussi m'appeller **Almigra** 🦄</br>
 J'ai toujours été passionnée par le web 👩🏻‍💻 et les jeux vidéos 🤖🐉🎮 </br>
-Après plusieurs années en Freelance en tant que conceptrice de sites wordpress et rédactrice web, j'ai décidé de me tourner vers le développement web</br>
-Quant aux jeux vidéo, je joue principalement à **Pokemon, [Warcraft](https://worldofwarcraft.com/en-gb/character/eu/kazzak/Almigra) et Zelda**</br>
+Durant mon parcours universitaire j'ai eu un avant-gout de la programmation, mélangé avec beaucoup de mathématiques, au courant de la 2e année, j'ai eu ma dose des maths et j'ai décidé de suivre une formation de 2 ans sur les langages de programmation et SGBD, on a plutôt survolé les langages plus qu'autre chose.. 🙄 En même temps j'ai travaillé en Freelance en tant que conceptrice de sites wordpress et rédactrice web. En fin de compte, j'ai fini par m'intéresser au développement web que j'ai commencé à apprendre en autodidacte avant de rejoindre la formation de développeur web à O'Clock.</br>
+Je suis une grande fan de **Pokemon, [Warcraft](https://worldofwarcraft.com/en-gb/character/eu/kazzak/Almigra) et Zelda**</br>
 Je fais partie de la Promo Kraken de **[l'Ecole O'Clock](https://oclock.io)**
 
 
 ### Mes objectifs pour 2020 💫
 
-- [ ] 🍔 Terminer la formation de dev web chez **[O'Clock](https://oclock.io/formations/developpeur-web)**
+- [ ] 🍔 Terminer la formation de **[développeur web chez O'Clock](https://oclock.io/formations/developpeur-web)** avec la spé **[React](https://oclock.io/formations/developpeur-react)**
 - [ ] 🍟 Terminer le parcours de formation Javascript, Node.js, React et Vue.js sur **[Dyma](https://dyma.fr/)**
 - [ ] 🥃 Réaliser plusieurs projets que j'ai en tête
 - [ ] 🍨 Publier mon portfolio
+
+### Mes objectifs pour 2021 💫
+
+- [ ] 🥧 Rejoindre la spé **[Data / API à O'Clock](https://oclock.io/formations/developpeur-data-api)**
+- [ ] 🍩 Rejoindre une formation en alternance pour le titre de Développeur-Concepteur d'Applications
+- [ ] 🥪 À suivre...
 
 ### Je partagerais mes expériences sur les réseaux sociaux, n'hésitez pas à me suivre si ça vous intéresse ! 🌟
 
