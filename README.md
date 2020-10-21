@@ -22,7 +22,7 @@ Je fais partie de la Promo Kraken de **[l'Ecole O'Clock](https://oclock.io)**
 
 ### Je partagerais mes expériences sur les réseaux sociaux, n'hésitez pas à me suivre si ça vous intéresse ! 🌟
 
-[![Twitter](https://github.com/Almigra/Almigra/blob/master/Twitter.png)](https://twitter.com/AlmigraDev)</br>
+[![Twitter](https://github.com/Almigra/Almigra/blob/master/Twitter.png)](https://twitter.com/Almigra_Dev)</br>
 [![Linkedin](https://github.com/Almigra/Almigra/blob/master/Linkedin.png)](https://www.linkedin.com/in/sahar-almigra/)
 [![Facebook](https://github.com/Almigra/Almigra/blob/master/Facebook.png)](https://www.facebook.com/Almigra)
 [![Instagram](https://github.com/Almigra/Almigra/blob/master/Instagram.png)](https://www.instagram.com/sahar.almigra/)
