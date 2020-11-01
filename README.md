@@ -21,7 +21,7 @@ Durant mon parcours universitaire j'ai eu un avant-gout de la programmation, mé
 ### Je partagerais mes expériences sur les réseaux sociaux, n'hésitez pas à me suivre si ça vous intéresse ! 🌟
 
 <a href="https://twitter.com/Almigra_Dev">
-<img alt="Twitter: Almigra_Dev" src="https://img.shields.io/twitter/follow/Almigra_Dev.svg?style=social" target="_blank" />
+<img alt="Twitter: Almigra_Dev" src="https://img.shields.io/twitter/follow/Almigra_Dev?label=Almigra_Dev&style=social" target="_blank" />
 </a>
 
 <a href="https://github.com/Almigra">
