@@ -23,3 +23,7 @@ Durant mon parcours universitaire j'ai eu un avant-gout de la programmation, mé
 <a href="https://twitter.com/Almigra_Dev">
 <img alt="Twitter: Almigra_Dev" src="https://img.shields.io/twitter/follow/Almigra_Dev.svg?style=social" target="_blank" />
 </a>
+
+<a href="https://github.com/Almigra">
+<img alt="Github : Almigra" src="https://img.shields.io/github/followers/Almigra?label=Almigra&style=social" target="_blank" />
+</a>
