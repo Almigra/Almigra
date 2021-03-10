@@ -5,8 +5,8 @@ Je suis une grande fan de **Pokemon, [World of Warcraft](https://worldofwarcraft
 Durant mon parcours universitaire j'ai eu un avant-gout de la programmation, mélangé avec beaucoup de mathématiques, au courant de la 2e année, j'ai eu ma dose des maths et j'ai décidé de suivre une formation de 2 ans sur les langages de programmation et SGBD, on a plutôt survolé plusieurs langages tout en acquérant des bases en algorithmie et programmation. En même temps j'ai travaillé en Freelance en tant que conceptrice de sites wordpress et rédactrice web. J'ai fini par m'intéresser au développement web que j'ai commencé à apprendre en autodidacte avant de rejoindre la formation de développeur web à O'Clock.</br>
 
 
-<a href="https://twitter.com/Almigra_Dev">
-<img alt="Twitter: Almigra_Dev" src="https://img.shields.io/twitter/follow/Almigra_Dev?label=AlmigraDev&style=social" target="_blank" />
+<a href="https://twitter.com/AlmigraDev">
+<img alt="Twitter: AlmigraDev" src="https://img.shields.io/twitter/follow/Almigra_Dev?label=AlmigraDev&style=social" target="_blank" />
 </a>
 
 <a href="https://github.com/Almigra">
