@@ -6,7 +6,7 @@ Durant mon parcours universitaire j'ai eu un avant-gout de la programmation, mé
 
 
 <a href="https://twitter.com/AlmigraDev">
-<img alt="Twitter: AlmigraDev" src="https://img.shields.io/twitter/follow/Almigra_Dev?label=AlmigraDev&style=social" target="_blank" />
+<img alt="Twitter: AlmigraDev" src="https://img.shields.io/twitter/follow/AlmigraDev?label=AlmigraDev&style=social" target="_blank" />
 </a>
 
 <a href="https://github.com/Almigra">
