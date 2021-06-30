@@ -1,5 +1,7 @@
 ### 👋🏻
 
+Je met à jour ma bio Github bientôt !
+
 <a href="https://twitter.com/AlmigraDev">
 <img alt="Twitter: AlmigraDev" src="https://img.shields.io/twitter/follow/AlmigraDev?label=AlmigraDev&style=social" target="_blank" />
 </a>
